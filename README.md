@@ -1,5 +1,9 @@
 # Hi, I'm Chanelle 👋🏾
 
+**AI Product + UX Systems Strategist** building agent evaluation, human-centered AI, accessible tools, and systems that reduce cognitive load.
+
+I investigate what breaks. Then I design what should have existed.
+
 I build things where **AI, product, research, accessibility, and human behavior** collide.
 
 Most of my work starts the same way: I notice something that isn't working quite right, pull at the thread, and eventually build the thing I wish had existed.
@@ -14,6 +18,9 @@ Right now I'm experimenting with:
 
 ## A few things I'm building
 
+**[90/10 Agent Benchmark](https://github.com/chanelle/90-10-agent-benchmark)**
+Applied AI evaluation framework testing whether agents reduce human cognitive load instead of adding to it. 30 scenarios, explicit behavioral criteria, a real run, reproduction guidance, and documented limitations.
+
 **[Carousel Studio](https://github.com/chanelle/carousel-studio)** — [live demo](https://chanelle.github.io/carousel-studio/)
 A low-spoon Instagram carousel builder: eight reusable format anatomies, print-clean 1080×1350 exports, contrast checked to WCAG 2.2 AA — and everything runs locally, so your photos never leave your device.
 
@@ -22,9 +29,6 @@ AI-assisted career exploration for neurodivergent and burned-out professionals. 
 
 **[VisionPT / StabilityLabs](https://github.com/chanelle/StabilityLabs)**
 A high-fidelity spatial computing prototype for EDS physical therapy on Apple Vision Pro: isometric protocols, built-in joint-safety guardrails, glassmorphic interface. A prototype, not a production app.
-
-**[90/10 Agent Benchmark](https://github.com/chanelle/90-10-agent-benchmark)**
-Testing whether AI systems can actually reduce human cognitive load instead of creating more work. Still early — this is where the benchmark is taking shape.
 
 ## How I tend to work
 
