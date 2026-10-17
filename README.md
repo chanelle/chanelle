@@ -2,7 +2,7 @@
 
 **AI Product + UX Systems Strategist** building agent evaluation, human-centered AI, accessible tools, and systems that reduce cognitive load.
 
-I investigate what breaks. Then I design what should have existed.
+I untangle messy systems, build AI that knows when to ask, and generally try to make things less exhausting.
 
 I build things where **AI, product, research, accessibility, and human behavior** collide.
 
