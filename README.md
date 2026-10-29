@@ -30,6 +30,12 @@ AI-assisted career exploration for neurodivergent and burned-out professionals. 
 **[VisionPT / StabilityLabs](https://github.com/chanelle/StabilityLabs)**
 A high-fidelity spatial computing prototype for EDS physical therapy on Apple Vision Pro: isometric protocols, built-in joint-safety guardrails, glassmorphic interface. A prototype, not a production app.
 
+**[BoundaryProof](https://github.com/chanelle/boundary-proof)**
+Authority-boundary auditing for AI agents: what an agent was *intended* to do, what it is *configured* to do, and what it *observably* does — checked verb by verb, with evidence. Python, no dependencies; the auditor does not phone home.
+
+**[The Universe](https://github.com/chanelle/the-universe)**
+A spatial creative OS for non-linear thinkers: ideas as stars in constellations, worked in the SPARK rhythm — Snag · Place · Assess · Refine · Kickoff. Nothing gets lost. Not everything becomes urgent.
+
 ## How I tend to work
 
 I investigate what breaks.
